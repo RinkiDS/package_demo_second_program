@@ -6,4 +6,4 @@ def set_name(name):
     """
     print("Your name is " +name)
 
-set_name("Rinki")
+
