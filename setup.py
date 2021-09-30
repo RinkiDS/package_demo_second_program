@@ -8,7 +8,7 @@ USER_NAME ="RinkiDS"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}",
-    version="0.0.1",
+    version="0.0.3",
     author=USER_NAME,
     author_email="rinki.sharma@gmail.com",
     description="A small  package example",
