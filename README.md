@@ -3,6 +3,6 @@ demo for package
 
 ##How to use this
 ```python
-import second_program
-second_program.setName("<YOUR NAME>")
+from test_pkg.second_program import setName
+setName("<YOUR NAME>")
 ```
