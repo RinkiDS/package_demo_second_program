@@ -1,4 +1,3 @@
-import pandas as pd 
 def set_name(name):
     """this method is used to set name passed
 
